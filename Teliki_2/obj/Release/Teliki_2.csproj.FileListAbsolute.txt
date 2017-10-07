@@ -1,0 +1,13 @@
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\bin\Release\Teliki_2.exe.config
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\bin\Release\scores.mdf
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\bin\Release\scores_log.ldf
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\bin\Release\Teliki_2.exe
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\bin\Release\Teliki_2.pdb
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\obj\Release\Teliki_2.Form1.resources
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\obj\Release\Teliki_2.Form2.resources
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\obj\Release\Teliki_2.Properties.Resources.resources
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\obj\Release\Teliki_2.csproj.GenerateResource.Cache
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\obj\Release\Teliki_2.exe
+C:\Users\Z\documents\visual studio 2015\Projects\Teliki_2\Teliki_2\obj\Release\Teliki_2.pdb
+C:\Users\Z\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\obj\Release\Teliki_2.csprojResolveAssemblyReference.cache
+C:\Users\Z\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\obj\Release\Teliki_2.csproj.CoreCompileInputs.cache

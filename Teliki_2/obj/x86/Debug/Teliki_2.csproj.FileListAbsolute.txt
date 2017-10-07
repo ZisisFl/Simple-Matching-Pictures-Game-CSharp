@@ -1,0 +1,9 @@
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\bin\x86\Debug\Teliki_2.exe.config
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\bin\x86\Debug\Teliki_2.exe
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\bin\x86\Debug\Teliki_2.pdb
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\obj\x86\Debug\Teliki_2.Form1.resources
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\obj\x86\Debug\Teliki_2.Form2.resources
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\obj\x86\Debug\Teliki_2.Properties.Resources.resources
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\obj\x86\Debug\Teliki_2.csproj.GenerateResource.Cache
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\obj\x86\Debug\Teliki_2.exe
+C:\Users\Aris\Documents\Visual Studio 2015\Projects\Teliki_2\Teliki_2\obj\x86\Debug\Teliki_2.pdb
